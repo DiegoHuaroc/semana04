@@ -1,0 +1,2 @@
+# semana04
+CS1102 EJERCICIOS
